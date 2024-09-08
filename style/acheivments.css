@@ -1,0 +1,139 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  text-decoration: none;
+}
+
+nav {
+  font-family: "fira code", sans-serif;
+}
+
+nav a {
+  color: #ff0000;
+}
+
+.contact {
+  font-family: "fira code", sans-serif;
+  color: #ff7b00;
+}
+
+.header {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-between;
+  background-color: #30c8ff;
+  height: 70px;
+  padding: 0px 20px;
+}
+
+.header h1 {
+  font-family: "Courier New", Courier, monospace;
+}
+
+.navbar {
+  font-family: "source code pro";
+}
+
+.navbar a {
+  color: aqua;
+}
+
+.navbar a:hover {
+  color: #ff0000;
+}
+
+.contact-btn {
+  padding: 10px;
+  border-radius: 5px;
+}
+
+.contact-btn.hover {
+  background-color: #1e6dff;
+  color: #00e1ff;
+  font-family: "source code pro";
+  padding: 10px;
+  border-radius: 5px;
+}
+
+.main {
+  justify-content: center;
+  display: flex;
+  height: 555px;
+  width: 100%;
+  align-items: center;
+  padding: 100px;
+}
+.text {
+  color: #eeeeee;
+}
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  text-decoration: none;
+}
+body {
+  background-color: #343434;
+}
+nav {
+  font-family: "fira code", sans-serif;
+}
+
+nav a {
+  color: #ff88f3;
+}
+
+.contact {
+  font-family: "fira code", sans-serif;
+  color: #ff7b00;
+}
+
+.header {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-between;
+  background-color: #151515;
+  height: 70px;
+  padding: 0px 20px;
+}
+
+.header h1 {
+  font-family: "Courier New", Courier, monospace;
+}
+
+.navbar {
+  font-family: "source code pro";
+}
+
+.navbar a {
+  color: rgb(234, 43, 43);
+}
+
+.navbar a:hover {
+  color: #eeeeee;
+}
+
+.contact-btn {
+  padding: 10px;
+  border-radius: 5px;
+}
+
+.contact-btn:hover {
+  background-color: #ff1e4f;
+  color: #eeeeee;
+  font-family: "source code pro";
+  padding: 10px;
+  border-radius: 5px;
+}
+
+.main {
+  justify-content: center;
+  display: flex;
+  height: 555px;
+  width: 100%;
+  align-items: center;
+  padding: 100px;
+}
